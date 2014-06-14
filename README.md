@@ -2,7 +2,7 @@
 
 ##Take pictures using Python
 
-[!(http://img.youtube.com/vi/pcoGL4GJD2w/0.jpg)] ("https://www.youtube.com/watch?v=pcoGL4GJD2w")
+https://www.youtube.com/watch?v=pcoGL4GJD2w
 
 On the morning of June 14th 2014, I was taking part in Blackpool Makerspace meeting and thought it would be great to enable a method to take pics from our meetings.
 
